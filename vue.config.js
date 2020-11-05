@@ -7,5 +7,7 @@ module.exports = {
   },
   transpileDependencies: [
     'quasar'
-  ]
+  ],
+  publicPath: '/mfrgcs-pwatest',
+  outputDir: 'docs'
 }
